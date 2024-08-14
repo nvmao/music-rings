@@ -3,10 +3,8 @@ import colorsys
 import pygame
 import math
 
-from Box2D import b2World
 from pygame.locals import *
 
-from pygame import Vector2, mixer, time
 import pygame.midi
 
 
